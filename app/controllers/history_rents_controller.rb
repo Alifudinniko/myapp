@@ -1,0 +1,2 @@
+class HistoryRentsController < ApplicationController
+end
