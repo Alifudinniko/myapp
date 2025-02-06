@@ -1,0 +1,2 @@
+module HistoryRentsHelper
+end
